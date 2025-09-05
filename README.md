@@ -1,4 +1,4 @@
-# ghastisankalp7 - Demo
+# Sankalp - Demo
 This is my first Repository. 
 <br>
 Sankalp Ghasti
